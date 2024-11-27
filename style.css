@@ -1,0 +1,40 @@
+html {
+  background: lightcoral;
+}
+
+body {
+  background: white;
+  width: 600px;
+  margin: 0px auto;
+  padding: 20px 50px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+img {
+  border-radius: 10px;
+  width: 100px;
+}
+
+img:hover {
+  opacity: 0.7;
+  transition: opacity 0.5s;
+}
+
+table {
+  margin: 0px auto;
+}
+
+td {
+  border: 2px solid black;
+}
+
+p {
+  font-size: 12px;
+  font-style: italic;
+}
+
+h1,
+h3 {
+  font-weight: lighter;
+}
